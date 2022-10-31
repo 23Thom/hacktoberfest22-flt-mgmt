@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="New Maintenance Request">94d296a787a21510e2a2ed740cbb353e</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-21 06:12:30</sys_created_on>
+        <sys_id>38139ea787a21510e2a2ed740cbb35fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.New Maintenance Request</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_38139ea787a21510e2a2ed740cbb35fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-21 06:12:30</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</application>
+        <file_path/>
+        <instance_id>b8000a1fdbdd999c91232f17d4961995</instance_id>
+        <instance_name>kiwi2demo</instance_name>
+        <name>sc_cat_item_catalog_38139ea787a21510e2a2ed740cbb35fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Maintenance Request">94d296a787a21510e2a2ed740cbb353e</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-21 06:12:30</sys_created_on><sys_id>38139ea787a21510e2a2ed740cbb35fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.New Maintenance Request</sys_name><sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package><sys_policy/><sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope><sys_update_name>sc_cat_item_catalog_38139ea787a21510e2a2ed740cbb35fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-21 06:12:30</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>683687851</payload_hash>
+        <record_name>Service Catalog.New Maintenance Request</record_name>
+        <reverted_from/>
+        <source>d0d98e0c87ae1190e2a2ed740cbb35b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-21 06:12:30</sys_created_on>
+        <sys_id>f413dea787a21510e2a2ed740cbb3501</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183f92bf4780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-21 06:12:30</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>3c13dea71ba21510c10369393f35c700</update_guid>
+        <update_guid_history>3c13dea71ba21510c10369393f35c700:683687851</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.New Maintenance Request">7a1312e787a21510e2a2ed740cbb3525</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-21 06:12:39</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>18f838fb547448c49dc564d648266690</sys_id>
+        <sys_metadata>38139ea787a21510e2a2ed740cbb35fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.New Maintenance Request</sys_name>
+        <sys_package display_value="Fleet Vehicle Management" source="x_snc_flt_mgmt">89b467169738d150c6fc7e0e6253af10</sys_package>
+        <sys_parent display_value="">94d296a787a21510e2a2ed740cbb353e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Fleet Vehicle Management">89b467169738d150c6fc7e0e6253af10</sys_scope>
+        <sys_scope_delete display_value="">103cf2a4751b4197883305011e105169</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_38139ea787a21510e2a2ed740cbb35fd</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_38139ea787a21510e2a2ed740cbb35fd">f413dea787a21510e2a2ed740cbb3501</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-21 06:12:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

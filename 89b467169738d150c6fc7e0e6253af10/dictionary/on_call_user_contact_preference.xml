@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="domain_master=on_call_user_preference" db_object_id="5fd8425f47d1111047516ac2e36d4350" label="On-Call User Contact Preference" max_length="40" name="on_call_user_contact_preference" type="collection">
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" hint="List of Teams sources that has to be contacted in case of escalation for specified contact attempt" label="Microsoft Teams" max_length="1024" name="teams" reference="sys_on_call_contact_source" reference_qual="source_type=teams" reference_qual_condition="source_type=teams" type="glide_list"/>
+    </element>
+</database>
